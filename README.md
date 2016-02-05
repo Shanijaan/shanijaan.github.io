@@ -1,2 +1,2 @@
-# shanijaan.github.io
+# http://shanijaan.github.io
 My Personal Website
